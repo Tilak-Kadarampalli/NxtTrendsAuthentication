@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.login-div {
+  display: flex;
+  flex-direction: row;
+}
+.login-img {
+  width: 300px;
+}
